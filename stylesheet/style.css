@@ -4,6 +4,7 @@
       background-color: #121212;
       color: #E0E0E0;
       scroll-behavior: smooth;
+      overflow-x: hidden;
       }
       @keyframes fadeInUp {
       from {
